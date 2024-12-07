@@ -7,7 +7,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "ms-python.pytnon",
+                "ms-python.python",
                 "ms-toolsai.jupyter",
                 "ms-azuretools.vscode-docker",
                 "tamasfe.even-better-toml"
